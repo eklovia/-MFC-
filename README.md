@@ -1,0 +1,11 @@
+图形填充（速度比较慢，采用的是深度优先遍历逐个绘制像素点）
+![image](https://github.com/user-attachments/assets/d5d8dea2-c68b-4cd7-a693-70585dc6b998)
+绘制任意图形
+![image](https://github.com/user-attachments/assets/4870698b-f3ee-4f5d-8880-a790bcc15f74)
+贝塞尔曲线
+![image](https://github.com/user-attachments/assets/ca717e5f-1bec-4391-9379-714eaf83ca8b)
+图形旋转与平移
+![image](https://github.com/user-attachments/assets/a20a0ca0-7017-4697-afb1-389dbe5ac8e8)
+![image](https://github.com/user-attachments/assets/2c2c77f3-3fc5-4b1e-b082-a6c184632123)
+截取屏幕放大
+![image](https://github.com/user-attachments/assets/291ec9f0-a523-4235-8d53-b194668e11a8)
